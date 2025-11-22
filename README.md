@@ -1,3 +1,10 @@
-# Projeto2-Gerador-QrCode
+# Modulos_Pequenos
 
-O programa cria um código QR do que o usuario digitar.
+Este projeto separa varios modulos individuais que podem ser integrados a codigos maiores, cada modulo cumpre seu proposito e funciona independente uns dos outros.
+
+### #1 Gerador de QrCode
+Gera um codigo qr doque o usuario digitar
+
+### #2 Gerador de senhas
+
+Gera uma senha moldada pelo usuario que pode definir seu tamanha se ha caracteres especiais, numeros e letras maiusculas e/ouminusculas
