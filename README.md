@@ -7,4 +7,4 @@ Gera um codigo qr doque o usuario digitar
 
 ### #2 Gerador de senhas
 
-Gera uma senha moldada pelo usuario que pode definir seu tamanha se ha caracteres especiais, numeros e letras maiusculas e/ouminusculas
+Gera uma senha moldada pelo usuário que pode definir seu tamanha se há caracteres especiais, números e letras maiúsculas e/ou minúsculas
