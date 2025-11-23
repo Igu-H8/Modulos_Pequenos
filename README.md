@@ -1,10 +1,15 @@
-# Modulos_Pequenos
+# Modulos_Pequenos 
 
-Este projeto separa varios modulos individuais que podem ser integrados a codigos maiores, cada modulo cumpre seu proposito e funciona independente uns dos outros.
+Este projeto separa vários módulos individuais que podem ser integrados a códigos maiores, cada modulo cumpre seu proposito e funciona independente uns dos outros. 
 
-### #1 Gerador de QrCode
-Gera um codigo qr doque o usuario digitar
+## #1 Gerador de QrCode 
 
-### #2 Gerador de senhas
+O programa gera um código qr do for escrito pelo usuário  
 
-Gera uma senha moldada pelo usuario que pode definir seu tamanha se ha caracteres especiais, numeros e letras maiusculas e/ouminusculas
+## #2 Gerador de senhas
+
+O programa gera uma senha moldada pelo usuário que pode definir seu tamanha se ha caracteres especiais, números e letras maiúsculas e/ou minúsculas 
+
+## #3 Calculadora de equações 
+
+O programa lê a equação que o usuário digitar e realiza seu cálculo   
